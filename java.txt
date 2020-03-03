@@ -2,3 +2,6 @@ welcome to sanjay java
 core java
 advance java
 spring
+servlet
+jdbc 
+jsp
